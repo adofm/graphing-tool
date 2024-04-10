@@ -1,5 +1,5 @@
-from tkinter import * #learnt in 11th Std
-import mysql.connector as sqltor #learnt in 12th Std
+from tkinter import * 
+import mysql.connector as sqltor 
 mycon=sqltor.connect(host='localhost',user='root',passwd='MySQL@Class12',database='CSProject')
 
 #Registration
